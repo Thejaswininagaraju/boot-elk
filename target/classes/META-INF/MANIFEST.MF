@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: thejaswinitn
+Build-Jdk: 11.0.12
+Implementation-Title: spring-boot-elk
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javademo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-el
+ k/
+Created-By: Maven Integration for Eclipse
+
